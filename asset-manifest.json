@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/ShippingGrid/static/css/main.073c9b0a.css",
-    "main.js": "/ShippingGrid/static/js/main.e093535f.js",
-    "static/js/787.cffb31ed.chunk.js": "/ShippingGrid/static/js/787.cffb31ed.chunk.js",
-    "static/media/logo.svg": "/ShippingGrid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/ShippingGrid/static/css/main.e6c13ad2.css",
+    "main.js": "/ShippingGrid/static/js/main.62146a2b.js",
     "index.html": "/ShippingGrid/index.html",
-    "main.073c9b0a.css.map": "/ShippingGrid/static/css/main.073c9b0a.css.map",
-    "main.e093535f.js.map": "/ShippingGrid/static/js/main.e093535f.js.map",
-    "787.cffb31ed.chunk.js.map": "/ShippingGrid/static/js/787.cffb31ed.chunk.js.map"
+    "main.e6c13ad2.css.map": "/ShippingGrid/static/css/main.e6c13ad2.css.map",
+    "main.62146a2b.js.map": "/ShippingGrid/static/js/main.62146a2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e093535f.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.62146a2b.js"
   ]
 }
